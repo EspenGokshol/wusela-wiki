@@ -1,12 +1,12 @@
 
-| Character                   | Player name |
-| --------------------------- | ----------- |
-| [[#Elfa Bogi]]              | Nora        |
-| [[#Gjertrudovski]]          | Filip       |
-| [[#Løytnant Fuglefaen]]     | Martin      |
-| [[#Maritus]]                | Kristina    |
-| [[#Steven the Trustworthy]] | Erik        |
-| [[#Valeria Stormborne]]     | Sandra      |
+| Character              | Player name |
+| ---------------------- | ----------- |
+| Elfa Bogi              | Nora        |
+| Gjertrudovski          | Filip       |
+| Løytnant Fuglefaen     | Martin      |
+| Maritus                | Kristina    |
+| Steven the Trustworthy | Erik        |
+| Valeria Stormborne     | Sandra      |
 
 # Elfa Bogi
 ![[2-Navnløs.jpeg|300]]
